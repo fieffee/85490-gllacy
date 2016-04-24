@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Alina Estekhina](https://up.htmlacademy.ru/htmlcss/13/user/85490).
-* Наставник: `Неизвестно`.
+* Наставник: `Keks`.
 
 ---
 
